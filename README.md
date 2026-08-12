@@ -112,7 +112,7 @@ I enjoy taking an idea from:
 ### 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=android" />
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
 </p>
 
 ### 🗄️ Data & Tools
@@ -291,36 +291,38 @@ Premium capabilities can later include **Google Drive backup and restore using t
 
 ---
 
-# 🖼️ Memora Preview
+## 🧠 Memora
 
-<div align="center">
+<p align="center">
+  <strong>Your memories. Your story. Your life.</strong>
+</p>
 
-<img src="./assets/memora/home.png" width="220"/>
-<img src="./assets/memora/timeline.png" width="220"/>
-<img src="./assets/memora/memory.png" width="220"/>
+<p align="center">
+  A privacy-first, local-first mobile application designed to preserve
+  meaningful moments, photos, stories, voice memories and future letters.
+</p>
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.lee.memora">
+    <img src="https://img.shields.io/badge/Google%20Play-Download%20Memora-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
+</p>
 
-</div>
-<div align="center">
-<img src="./assets/memora/voice.png" width="220"/>
-<img src="./assets/memora/profile.png" width="220"/>
-<img src="./assets/memora/future-letter.png" width="220"/>
+<br/>
 
-</div>
+### ✨ Memora Preview
 
----
+<p align="center">
+  <img src="./assets/memora/home.png" width="200"/>
+  <img src="./assets/memora/timeline.png" width="200"/>
+  <img src="./assets/memora/memory.png" width="200"/>
+</p>
 
-# 📱 Download Memora
-
-<div align="center">
-
-<a href="[YOUR_MEMORA_GOOGLE_PLAY_LINK](https://play.google.com/store/apps/details?id=com.lee.memora)">
-
-<img src="https://img.shields.io/badge/Google%20Play-Download%20Memora-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
-
-</a>
-
-</div>
+<p align="center">
+  <img src="./assets/memora/voice.png" width="200"/>
+  <img src="./assets/memora/profile.png" width="200"/>
+  <img src="./assets/memora/future-letter.png" width="200"/>
+</p>
 
 ---
 
@@ -415,36 +417,6 @@ I'm interested in building products around:
 * 🧠 AI-powered productivity
 * 🚀 Consumer applications
 * 🔐 Privacy-first technology
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vinoth1412&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinoth1412&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vinoth1412&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinoth1412&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
 
 ---
 
