@@ -293,21 +293,16 @@ Premium capabilities can later include **Google Drive backup and restore using t
 
 # 🖼️ Memora Preview
 
-> Add your actual Memora screenshots to the `assets/memora/` folder in this repository.
-
 <div align="center">
 
 <img src="./assets/memora/home.png" width="220"/>
 <img src="./assets/memora/timeline.png" width="220"/>
 <img src="./assets/memora/memory.png" width="220"/>
-<img src="./assets/memora/voice.png" width="220"/>
+
 
 </div>
-
-<br/>
-
 <div align="center">
-
+<img src="./assets/memora/voice.png" width="220"/>
 <img src="./assets/memora/profile.png" width="220"/>
 <img src="./assets/memora/future-letter.png" width="220"/>
 
